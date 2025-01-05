@@ -2,7 +2,7 @@
 """
 Created on Sat Mar 28 11:19:23 2020
 
-@author: AaronChristian
+@author: AaronChristian and AasthaJoshi
 """
 
 import time
